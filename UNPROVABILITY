@@ -1,0 +1,43 @@
+UNPROVABILITY IN MACHINE LEARNING
+
+Learning a predictor -mathematical function-  is formalised to correctly approximate PAC learning model, 
+with the aim to to train the predictor to exactly match a certain function labeling the data. 
+
+The online learning model makes instantaneous predictions as data arrive capturing a trading system task 
+of executing transactions in an ever-changing market.  
+
+A learning model called estimating the maximum (EMX) is relating learnability to complexity, discovering a 
+family of functions whose learnability in EMX is unprovable in standard mathematics.     
+
+The creators formalized EMX as a question about a learner’s ability to find a function, from a given family 
+to be as big as possible, this action brought unprovability into the picture as the family must have low 
+complexity, and therefore be learnable. 
+
+However, the weak form of monotone compression used is related to the size of certain infinite sets.
+
+ML learnability can be an undecidable problem, we should be careful when introducing new models of learning 
+and check already adopted models for unprovability may already be in some of them. 
+
+
+
+EXPENSIVE COMPUTATIONAL POWER
+
+Computational power requirements have increased in all domains of deep learning, sounding the alarms because 
+computing power is its core to achieve deep learning improvement.   
+
+The very flexibility advantages also makes it dramatically more computationally expensive.
+
+This reliance on computational power demonstrates that soon it will be impossible to sustain the rapid financial 
+and technical demands it imposes.  
+
+We urgently need new computational-efficient methods altogether. 
+ 
+
+
+ON LINEAR EQUATIONS
+
+Given a multi-layer neural network with linear activation functions is equivalent to one single layer of neurons, 
+the nonlinearity of activated functions that makes each layer increase in complexity.
+
+This in effect makes the network system a universal computing machine capable of approximating continuous functions. 
+It is this added complexity that current narrow AI cannot process efficiently.
